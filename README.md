@@ -34,4 +34,11 @@ Drill-Through functionality
 
 [ **view Full Project 1 details (README)** ](Data_jobs_v1/README.md)
 
+## Data Jobs Dashboard 2.0 (v2 - single-page focus)
+![Data Jobs Dashboard 2.0](/Project%20images/Project2_Dashboard_Page1.png)
+[ **view Full Project 1 details (README)** ](./Data_jobs_v2/README.md)
 
+
+## About This Portfolio
+
+Every dahboard linked above has its own detailed 'README.md' file within its respective project folder.
